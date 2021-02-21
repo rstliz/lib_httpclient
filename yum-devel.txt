@@ -1,0 +1,5 @@
+openssl-devel
+glib2-devel
+cmake3
+gtest-devel
+libcurl-devel --enablerepo=city-fan.org

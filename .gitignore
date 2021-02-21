@@ -1,0 +1,9 @@
+.vscode
+*.o
+*.lo
+*.la
+*.slo
+*.slo
+*.d
+src/build
+*.code-workspace
